@@ -1,4 +1,4 @@
-<strong>Descripción de la tarea a realizarz/strong>
+<strong>Descripción de la tarea a realizar</strong>
 La tienda de joyas My Precious Spa necesita cambiar su aplicación de escritorio por una
 moderna y dinámica. Para realizar esta tarea, contactó a un desarrollador Full Stack
 Developer que desarrolle la API REST de una aplicación cliente para satisfacer las
