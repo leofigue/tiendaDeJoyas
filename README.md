@@ -1,6 +1,4 @@
-Para realiazr este proyecto se utilizo el modelo MVC
-
-Descripción
+<strong>Descripción de la tarea a realizarz/strong>
 La tienda de joyas My Precious Spa necesita cambiar su aplicación de escritorio por una
 moderna y dinámica. Para realizar esta tarea, contactó a un desarrollador Full Stack
 Developer que desarrolle la API REST de una aplicación cliente para satisfacer las
@@ -11,6 +9,9 @@ Deberás crear una API REST que permita:
 3. Paginación
 4. Ordenamiento
 5. Estructura de datos HATEOAS
+
+
+Para realiazr este proyecto se utilizo el modelo MVC
 
 Utilizamos:
 <ul>
